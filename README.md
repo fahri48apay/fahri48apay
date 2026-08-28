@@ -24,15 +24,30 @@ Lebih dari satu dekade menjaga area lewat kamera; sekarang membangun produk digi
 dari aplikasi mobile, platform RAG lokal, sampai situs portofolio. Semua dipelajari
 mandiri dan dibangun dari nol, satu commit per satu. ☕
 
-## 📊 Statistik GitHub
+## 📊 GitHub Sekilas
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fahri48apay&show_icons=true&theme=tokyonight&bg_color=080808&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahri48apay&layout=compact&theme=tokyonight&bg_color=080808&hide_border=true)
+| | |
+| --- | --- |
+| **7** · Repositori publik | **6** · Total stars 🌟 |
+| **2** · Followers | **Jan 2025** · Bergabung dengan GitHub |
 
 </div>
+
+**Top bahasa (berdasarkan jumlah repositori):**
+
+| Bahasa | Jumlah repo |
+| --- | --- |
+| 🟦 TypeScript | `digitalwise` · `Coffee-Tongkrong` — 2 |
+| 🟥 HTML | `FixHub` · `Belajar` — 2 |
+| 🟨 PHP / Hack | `TK_Alifianda` · `tugas_PBO` — 2 |
+| 🟩 Python | `AI_Platform_Workspace` — 1 |
+| 🟧 JavaScript | `opencode-config` — 1 |
+| 🟪 Kotlin | `Tea-Coffee_timer` — 1 |
+| 🟫 CSS | `personalWeb` — 1 |
+
+<sub>Angka dihitung manual per Agustus 2026 agar tetap tampil andal tanpa layanan pihak ketiga.</sub>
 
 ## 🚀 Project Showcase
 
