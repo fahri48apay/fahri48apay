@@ -43,7 +43,6 @@ mandiri dan dibangun dari nol, satu commit per satu. ☕
 | 🟥 HTML | `FixHub` · `Belajar` — 2 |
 | 🟨 PHP / Hack | `TK_Alifianda` · `tugas_PBO` — 2 |
 | 🟩 Python | `AI_Platform_Workspace` — 1 |
-| 🟧 JavaScript | `opencode-config` — 1 |
 | 🟪 Kotlin | `Tea-Coffee_timer` — 1 |
 | 🟫 CSS | `personalWeb` — 1 |
 
@@ -67,7 +66,6 @@ mandiri dan dibangun dari nol, satu commit per satu. ☕
 | Proyek | Stack | Deskripsi |
 | --- | --- | --- |
 | ⏱️ **Tea-Coffee_timer** | Kotlin · Android | Timer seduh kopi & teh dengan preset brew, timer & alarm |
-| ⚙️ **opencode-config** | — | Konfigurasi OpenCode: agents, skills & knowledge base AI coding assistant |
 | 🧠 **core-termux-brain** | — | Knowledge base & otomasi coding agent di Termux |
 | 🏫 **tugas_PBO** | PHP | Kumpulan tugas kuliah Pemrograman Berorientasi Objek |
 | 📚 **Belajar** | C++ · PHP · HTML/CSS/JS | Arsip belajar coding & Git cheatsheet |
