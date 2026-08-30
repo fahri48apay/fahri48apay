@@ -59,7 +59,7 @@ mandiri dan dibangun dari nol, satu commit per satu. ☕
 | 🧠 **AI_Platform_Workspace** | Python · PyTorch · FastAPI · llama-cpp | Platform RAG/LLM **100% lokal di CPU**: fetch model, embeddings, vector search, quantized inference & API server — tanpa kunci API |
 | ☕ **Coffee-Tongkrong** | TypeScript · React Native · Expo | Aplikasi mobile coffeeshop — contoh project full-stack bersih & terstruktur |
 | 🛠️ **FixHub** | HTML · SVG | Prototipe platform servis elektronik: landing page, form tiket, dashboard user & alur notifikasi WhatsApp |
-| 🌐 **TK_Alifianda** | PHP · CSS · JS · Vercel | Company profile usaha — live di [tk-alifianda.vercel.app](https://tk-alifianda.vercel.app) |
+| 🌐 **TK_Alifianda** | PHP · CSS · JS | Company profile usaha — live di [tkalifianda.site.je](https://tkalifianda.site.je) |
 | 👤 **personalWeb** | HTML · CSS · JS | Portofolio pribadi dark-mode aksesibel: timeline, testimoni & form kontak via WhatsApp |
 
 ### Private / Sedang Dikerjakan
