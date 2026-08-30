@@ -66,6 +66,7 @@ mandiri dan dibangun dari nol, satu commit per satu. ☕
 
 | Proyek | Stack | Deskripsi |
 | --- | --- | --- |
+| 🐺 **WolfCut** | Rust · Tauri · React | Video editor open-source pengganti CapCut: engine Rust (FFmpeg), multi-track timeline, undo, auto-captions lokal, tanpa watermark. Mobile Android dalam pengembangan |
 | ⏱️ **Tea-Coffee_timer** | Kotlin · Android | Timer seduh kopi & teh dengan preset brew, timer & alarm |
 | 🏫 **tugas_PBO** | PHP | Kumpulan tugas kuliah Pemrograman Berorientasi Objek |
 | 📚 **Belajar** | C++ · PHP · HTML/CSS/JS | Arsip belajar coding & Git cheatsheet |
@@ -77,6 +78,7 @@ mandiri dan dibangun dari nol, satu commit per satu. ☕
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
